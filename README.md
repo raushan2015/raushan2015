@@ -137,7 +137,7 @@ An **inventory management system** that I design, build, and run by myself. It's
 | 🏅 **TOEIC 835** | 2024 |
 | 🇯🇵 **JLPT N3** | 2024 |
 
-**🗣️ Languages:** English (TOEIC 835) · Japanese (JLPT N3) · Nepali
+**🗣️ Languages:** English (TOEIC 835) · Japanese (JLPT N3) · Nepali · Hindi
 
 ---
 
