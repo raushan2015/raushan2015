@@ -154,13 +154,6 @@ An **inventory management system** that I design, build, and run by myself. It's
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
-</p>
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
-  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=raushan2015&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
