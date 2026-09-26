@@ -154,11 +154,14 @@ An **inventory management system** that I design, build, and run by myself. It's
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raushan2015&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan2015&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=raushan2015&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=raushan2015&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---
