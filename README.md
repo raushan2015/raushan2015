@@ -147,7 +147,7 @@ An **inventory management system** that I design, build, and run by myself. It's
 - 🤝 Working on projects in **server infrastructure, self-hosting and scalable backends**
 - 🌱 Currently learning: advanced Linux administration, container orchestration, networking, and cloud architecture
 
-**Outside tech:** 📖 reading · 🏃 running · 🎬 movies
+**Outside tech:** 📖 reading · 🎧 listening to music · 🎬 movies
 
 ---
 
