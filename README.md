@@ -132,7 +132,7 @@ An **inventory management system** that I design, build, and run by myself. It's
 | | |
 |---|---|
 | 🏫 **Global Information Career Academy** (Japan) | Information Systems · 2025 – present |
-| 🗾 **Tokyo Keiei Junior College – Global Study Center** (Japan) | Japanese language · 2023 – 2025 |
+| 🗾 **Tokyo Management College – Global Study Center** (Japan) | Japanese language · 2023 – 2025 |
 | 📘 **Reliance International Academy** (Nepal) | +2 (Higher Secondary) · 2016 – 2018 |
 | 🏅 **TOEIC 835** | 2024 |
 | 🇯🇵 **JLPT N3** | 2024 |
