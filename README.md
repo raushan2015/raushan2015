@@ -1,22 +1,174 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Designing and managing a personal home lab infrastructure that simulates real-world environments, focusing on Docker-based deployments, virtualization, and self-hosted services. I continuously refine system reliability, performance, and automation.<br><br>👯 I’m looking to collaborate on<br>Meaningful projects involving server infrastructure, cloud-based applications, and scalable web systems. I’m particularly interested in environments where I can contribute to backend operations and infrastructure optimization.<br><br>🤝 I’m looking for help with<br>Advancing my expertise in cloud architecture, production-grade deployments, and high-availability system design. I value mentorship and collaboration that challenges me to grow as an infrastructure engineer.<br><br>🌱 I’m currently learning<br>Advanced Linux system administration, container orchestration, networking, and cloud technologies, with a strong focus on building practical, production-ready skills.<br><br>💬 Ask me about<br>Linux environments, Docker setups, virtualization, home lab architecture, and my journey toward becoming a professional Server & Infrastructure Engineer.<br><br>⚡ Fun fact<br>I prefer hands-on learning by building and managing real systems—turning my home lab into a mini data center to experiment, fail, and improve continuously.
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Raushan%20Kumar%20Chaudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Server%20%26%20Infrastructure%20%7C%20Full-Stack%20Developer%20%7C%20Home%20Labber&descAlignY=58&descSize=16" alt="header" />
+</p>
 
+<p align="center">
+  <a href="https://www.raushan7.com.np">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=%F0%9F%8C%8F+From+Nepal+%E2%86%92+Qatar+%E2%86%92+Japan;%F0%9F%8F%A0+I+run+my+own+home+lab+data+center;%F0%9F%90%B3+Linux+%E2%80%A2+Docker+%E2%80%A2+Nginx+%E2%80%A2+DNS+%E2%80%A2+VPN;%F0%9F%9B%A0%EF%B8%8F+Building+TECHSHAN-IMS+end-to-end;%F0%9F%94%8D+Debug+step+by+step%2C+never+by+guesswork" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raushanchy7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raushan.2015) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mail@raushan7.com.np) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raushan2015&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raushan2015&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raushan2015&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.raushan7.com.np"><img src="https://img.shields.io/badge/Portfolio-raushan7.com.np-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mail@raushan7.com.np"><img src="https://img.shields.io/badge/Email-mail%40raushan7.com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Japan%20🇯🇵-bc002d?style=for-the-badge" alt="Japan" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raushan2015&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/raushan2015) 
+## 👋 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm **Raushan**, originally from **Nepal** 🇳🇵 and now living in **Japan** 🇯🇵. I study **Information Systems** at Global Information Career Academy (グローバル情報キャリア学院). I work on two things: **servers and networks**, and **full-stack software** that runs on them.
+
+Before coming to Japan, I spent **3 years in Qatar** 🇶🇦 doing data entry for an engineering-maintenance company. Two things from that job stayed with me:
+
+- 📉 When the network or an internal system went down, **all the work on site stopped with it.** That's why I want to build and look after infrastructure.
+- 📝 A lot of time went into **copying and checking inventory and sales data by hand.** That's why I build software that removes that kind of work.
+
+> 💡 **My strength:** I don't guess when something breaks. I isolate the problem layer by layer (process → port → DNS → router → ISP), fix it, write down what happened, and automate the fix so it doesn't happen again.
+
+---
+
+## 🏠 Home Labber at Heart
+
+I run a **home lab** 🖥️ as my own small data center. It hosts a bunch of **self-hosted services I use every day**. I built it, and I also run and monitor it by myself.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧱 What I run**
+- 🐳 **Docker** containers on **Linux**
+- 🌐 **Nginx** reverse proxy with **SSL/TLS**
+- 🛡️ **Pi-hole** for network-wide ad blocking and local DNS
+- 🎬 **Plex** as my media server
+- 🗄️ **PostgreSQL · Redis · MinIO** for my own apps
+- 📦 **TECHSHAN-IMS**, running in production on my own hardware
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ How I run it**
+- 🔌 Router port forwarding and **DNS** name resolution
+- 🔥 **Firewall** access control and **VPN** remote access
+- 📊 Monitoring and log-based troubleshooting (`ping`, `traceroute`, `dig`, logs)
+- 🤖 Automated **backups and deployments** (shell scripts + CI/CD)
+- 🧪 Changes go to **staging → production**
+- 📚 Every setup and fix is **documented**
+
+</td>
+</tr>
+</table>
+
+```mermaid
+flowchart LR
+    U([🌍 Internet]) --> CF[☁️ Cloudflare DNS]
+    CF --> R[📶 Router<br/>Port-forward + Firewall]
+    V([🔐 VPN client]) --> R
+    R --> H[🐧 Linux host]
+    subgraph Docker["🐳 Docker"]
+        N[🌐 Nginx<br/>Reverse proxy + SSL]
+        N --> IMS[📦 TECHSHAN-IMS]
+        N --> PLEX[🎬 Plex]
+        IMS --> DB[(🐘 PostgreSQL)]
+        IMS --> RD[(⚡ Redis)]
+        IMS --> S3[(🪣 MinIO)]
+        PH[🛡️ Pi-hole DNS]
+    end
+    H --> N
+    H --> PH
+```
+
+---
+
+## 🚀 Featured Project: TECHSHAN-IMS
+
+An **inventory management system** that I design, build, and run by myself. It's my fix for the manual data work I did in Qatar.
+
+| Layer | Tech |
+|---|---|
+| 🎨 Frontend | Next.js · React |
+| ⚙️ Backend | Node.js · Express · TypeScript |
+| 🗄️ Data | PostgreSQL · Redis · MinIO |
+| 🖥️ Desktop | Electron + SQLite, **works offline and syncs automatically when the connection comes back** |
+| 🚢 Ops | Docker · Nginx · home lab hosting · GitHub branch workflow · staging → production |
+
+**Features:** authentication, sales, purchasing, reports and business documents, and database design built from scratch.
+
+🤖 I use **AI coding tools** to move fast, but I don't ship code I haven't checked. I read what they produce, check it against the official docs, and test it before it goes in.
+
+---
+
+## 💻 Tech Stack
+
+**☁️ Infrastructure & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,bash,powershell,githubactions,git,github&perline=9" alt="infra" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plex-E5A00D?style=flat-square&logo=plex&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=linode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPN-4B5563?style=flat-square&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNS%20%7C%20Firewall%20%7C%20SSL-1f2937?style=flat-square" />
+</p>
+
+**🧑‍💻 Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nextjs,react,electron,tailwind,html,css,python,java&perline=12" alt="dev" />
+</p>
+
+**🗄️ Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite" alt="db" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+| | |
+|---|---|
+| 🏫 **Global Information Career Academy** (Japan) | Information Systems · 2025 – present |
+| 🗾 **Tokyo Keiei Junior College – Global Study Center** (Japan) | Japanese language · 2023 – 2025 |
+| 📘 **Reliance International Academy** (Nepal) | +2 (Higher Secondary) · 2016 – 2018 |
+| 🏅 **TOEIC 835** | 2024 |
+| 🇯🇵 **JLPT N3** | 2024 |
+
+**🗣️ Languages:** English (TOEIC 835) · Japanese (JLPT N3) · Nepali
+
+---
+
+## 🎯 What I'm Looking For
+
+- 🔧 **Network and infrastructure roles:** building and running servers and networks, with the goal of moving into **cloud infrastructure design**
+- 🤝 Working on projects in **server infrastructure, self-hosting and scalable backends**
+- 🌱 Currently learning: advanced Linux administration, container orchestration, networking, and cloud architecture
+
+**Outside tech:** 📖 reading · 🏃 running · 🎬 movies
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raushan2015&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan2015&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=raushan2015&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://facebook.com/raushanchy7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/raushan.2015"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://paypal.me/raushan2015"><img src="https://img.shields.io/badge/Support%20me-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
+</p>
