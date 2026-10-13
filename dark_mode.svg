@@ -1,44 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono',monospace" width="985px" height="560px" viewBox="0 0 985 560">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono',monospace" width="985px" height="600px" viewBox="0 0 985 600">
 <style>
 .key {fill: #ffa657;} .value {fill: #a5d6ff;} .dots {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985" height="560" fill="#161b22" rx="15"/>
-<text x="15" y="36" fill="#c9d1d9" font-size="13px" xml:space="preserve">
-<tspan x="15" y="36"></tspan>
-<tspan x="15" y="51"></tspan>
-<tspan x="15" y="66">                   ,::;:::::::;;;,</tspan>
-<tspan x="15" y="81">                &#x27;;!:&#x27;&#x27;```````&#x27;,!;;,::</tspan>
-<tspan x="15" y="96">               ,:|,:&#x27;```&#x27;&#x27;&#x27;::&#x27;:,:,::;;:</tspan>
-<tspan x="15" y="111">              ,&#x27;;!,!:``````&#x27;,,,;!|;&#x27;||`:</tspan>
-<tspan x="15" y="126">             ,&#x27;;|,,|;:;k|;!,,;!;,::::!,`,</tspan>
-<tspan x="15" y="141">            ;,,,,`,;jks8SS8Sss*ll:&#x27;;|::`;</tspan>
-<tspan x="15" y="156">            ;,:&#x27;&#x27;`&#x27;j*SSS8###HHHH8;`!&#x27;,`:;</tspan>
-<tspan x="15" y="171">             !:&#x27;&#x27;`j88######HHHHHH|`lk,&#x27;:;</tspan>
-<tspan x="15" y="186">             ;`:`,#8*lsS8#MMMHM@@8*#@k`!</tspan>
-<tspan x="15" y="201">             l,`|ssl**sl||l8#H8*kklkll`</tspan>
-<tspan x="15" y="216">            *H8,8#8*j*ksssksM8ljk*s**l|</tspan>
-<tspan x="15" y="231">             MS;88##SS*S8slSH#s8sj*jS#S</tspan>
-<tspan x="15" y="246">             HS;s88#HHHH#ls8H#sSHH#HM#</tspan>
-<tspan x="15" y="261">             lMlkS888#HM**S#MHssH##8H*</tspan>
-<tspan x="15" y="276">               l**S88#MHs*l*8ll8HH#8H|</tspan>
-<tspan x="15" y="291">               !S*sS88SSSS88S88S888#s</tspan>
-<tspan x="15" y="306">                l*ss8Sslj*SSS*jls8#S</tspan>
-<tspan x="15" y="321">              sjll*sSSSSs*sss**s*sk</tspan>
-<tspan x="15" y="336">             #@|k*lllsSS88S8SSslsSSSSSS88s</tspan>
-<tspan x="15" y="351">          l*M@MHj*s*lkk*****l|*S8######S8H8</tspan>
-<tspan x="15" y="366">  lss8HMM@@@MMM@M**SSs*ll*lj&#x27;*H*8S#888#8##8#l</tspan>
-<tspan x="15" y="381">8@@@@@@MMMMM@@@M@@8*S8Ssss*jk#kM*H*SHH##MH###S</tspan>
-<tspan x="15" y="396">MMHHHM@@@MMHM@@@@@@Hs*88SSsll,j#s8*@l;||*HHH##Hk</tspan>
-<tspan x="15" y="411">MHMMMHMMMMMMH@@@@@@@@#l*ssssl&#x27;k#lsl#*lsslSHH#8#M#j</tspan>
-<tspan x="15" y="426">@MHHMMHMMMMMMM@@@@@@@@@Sk*Ss,,HH#ss8##SSsls###8#HM#k</tspan>
-<tspan x="15" y="441">M@MMH@MM@@MMMMM@@@@@@M88H#8l!H@HH88##8#8##SSSS8#HM@S</tspan>
-<tspan x="15" y="456">MM@@MMMMMM@@MMHM@@@MH*::lsslss;;88S8##88#H#H#!l8sk;,</tspan>
-<tspan x="15" y="471">MMM@@@MMMMM@@@@MMMHM@@Hk,jk;,&#x27;`l@M####H#####@k`&#x27;``:!</tspan>
-<tspan x="15" y="486">MMMM@@@MM@MM@@@MMM@@MM@@s:js|::M@HM#H####8##H@s!;l8H</tspan>
-<tspan x="15" y="501">@MMMM@@@HM@MM@@@MMMMMMMM@#;kl&#x27;j@MH@HHH#HH#8H##M@ss##</tspan>
-<tspan x="15" y="516">MMMMMM@@MMM@MMMMM@MMMMMMM@l`*:l@MHMMHHHHM#8H#8#H#k*S</tspan>
-<tspan x="15" y="531">MMMMMM@M@MM@@MMMMMMMMMMM@M::s;j@MMMMMMMMM##H#S####88</tspan>
+<rect width="985" height="600" fill="#161b22" rx="15"/>
+<text x="15" y="56" fill="#c9d1d9" font-size="13px" xml:space="preserve">
+<tspan x="15" y="56"></tspan>
+<tspan x="15" y="71"></tspan>
+<tspan x="15" y="86">                   ,::;:::::::;;;,</tspan>
+<tspan x="15" y="101">                &#x27;;!:&#x27;&#x27;```````&#x27;,!;;,::</tspan>
+<tspan x="15" y="116">               ,:|,:&#x27;```&#x27;&#x27;&#x27;::&#x27;:,:,::;;:</tspan>
+<tspan x="15" y="131">              ,&#x27;;!,!:``````&#x27;,,,;!|;&#x27;||`:</tspan>
+<tspan x="15" y="146">             ,&#x27;;|,,|;:;k|;!,,;!;,::::!,`,</tspan>
+<tspan x="15" y="161">            ;,,,,`,;jks8SS8Sss*ll:&#x27;;|::`;</tspan>
+<tspan x="15" y="176">            ;,:&#x27;&#x27;`&#x27;j*SSS8###HHHH8;`!&#x27;,`:;</tspan>
+<tspan x="15" y="191">             !:&#x27;&#x27;`j88######HHHHHH|`lk,&#x27;:;</tspan>
+<tspan x="15" y="206">             ;`:`,#8*lsS8#MMMHM@@8*#@k`!</tspan>
+<tspan x="15" y="221">             l,`|ssl**sl||l8#H8*kklkll`</tspan>
+<tspan x="15" y="236">            *H8,8#8*j*ksssksM8ljk*s**l|</tspan>
+<tspan x="15" y="251">             MS;88##SS*S8slSH#s8sj*jS#S</tspan>
+<tspan x="15" y="266">             HS;s88#HHHH#ls8H#sSHH#HM#</tspan>
+<tspan x="15" y="281">             lMlkS888#HM**S#MHssH##8H*</tspan>
+<tspan x="15" y="296">               l**S88#MHs*l*8ll8HH#8H|</tspan>
+<tspan x="15" y="311">               !S*sS88SSSS88S88S888#s</tspan>
+<tspan x="15" y="326">                l*ss8Sslj*SSS*jls8#S</tspan>
+<tspan x="15" y="341">              sjll*sSSSSs*sss**s*sk</tspan>
+<tspan x="15" y="356">             #@|k*lllsSS88S8SSslsSSSSSS88s</tspan>
+<tspan x="15" y="371">          l*M@MHj*s*lkk*****l|*S8######S8H8</tspan>
+<tspan x="15" y="386">  lss8HMM@@@MMM@M**SSs*ll*lj&#x27;*H*8S#888#8##8#l</tspan>
+<tspan x="15" y="401">8@@@@@@MMMMM@@@M@@8*S8Ssss*jk#kM*H*SHH##MH###S</tspan>
+<tspan x="15" y="416">MMHHHM@@@MMHM@@@@@@Hs*88SSsll,j#s8*@l;||*HHH##Hk</tspan>
+<tspan x="15" y="431">MHMMMHMMMMMMH@@@@@@@@#l*ssssl&#x27;k#lsl#*lsslSHH#8#M#j</tspan>
+<tspan x="15" y="446">@MHHMMHMMMMMMM@@@@@@@@@Sk*Ss,,HH#ss8##SSsls###8#HM#k</tspan>
+<tspan x="15" y="461">M@MMH@MM@@MMMMM@@@@@@M88H#8l!H@HH88##8#8##SSSS8#HM@S</tspan>
+<tspan x="15" y="476">MM@@MMMMMM@@MMHM@@@MH*::lsslss;;88S8##88#H#H#!l8sk;,</tspan>
+<tspan x="15" y="491">MMM@@@MMMMM@@@@MMMHM@@Hk,jk;,&#x27;`l@M####H#####@k`&#x27;``:!</tspan>
+<tspan x="15" y="506">MMMM@@@MM@MM@@@MMM@@MM@@s:js|::M@HM#H####8##H@s!;l8H</tspan>
+<tspan x="15" y="521">@MMMM@@@HM@MM@@@MMMMMMMM@#;kl&#x27;j@MH@HHH#HH#8H##M@ss##</tspan>
+<tspan x="15" y="536">MMMMMM@@MMM@MMMMM@MMMMMMM@l`*:l@MHMMHHHHM#8H#8#H#k*S</tspan>
+<tspan x="15" y="551">MMMMMM@M@MM@@MMMMMMMMMMM@M::s;j@MMMMMMMMM##H#S####88</tspan>
 </text>
 <text x="440" y="35" fill="#c9d1d9" font-size="15px" xml:space="preserve">
 <tspan x="440" y="35">raushan@chaudhary <tspan class="dots">----------------------------------------</tspan></tspan>
@@ -54,13 +54,15 @@ text, tspan {white-space: pre;}
 <tspan x="440" y="275"><tspan class="key">Homelab</tspan>.<tspan class="key">Network</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">DNS, VPN, Firewall, SSL/TLS</tspan></tspan>
 <tspan x="440" y="315">Projects <tspan class="dots">-------------------------------------------------</tspan></tspan>
 <tspan x="440" y="335"><tspan class="key">TECHSHAN</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">Server management panel with AI</tspan></tspan>
-<tspan x="440" y="355"><tspan class="key">TECHSHAN-IMS</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">Multi-tenant ERP and inventory system</tspan></tspan>
-<tspan x="440" y="395">Contact <tspan class="dots">--------------------------------------------------</tspan></tspan>
-<tspan x="440" y="415"><tspan class="key">Email</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">mail@raushan7.com.np</tspan></tspan>
-<tspan x="440" y="435"><tspan class="key">Website</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">raushan7.com.np</tspan></tspan>
-<tspan x="440" y="455"><tspan class="key">Instagram</tspan>:<tspan class="dots"> .................................. </tspan><tspan class="value">raushan.2015</tspan></tspan>
-<tspan x="440" y="495">GitHub Stats <tspan class="dots">---------------------------------------------</tspan></tspan>
-<tspan x="440" y="515"><tspan class="key">Repos</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">17</tspan><tspan class="dots"> | </tspan><tspan class="key">Stars</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="440" y="535"><tspan class="key">Commits</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">904</tspan><tspan class="dots"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">6</tspan></tspan>
+<tspan x="440" y="355"><tspan class="key">TECHSHAN</tspan>.<tspan class="key">Link</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">https://techshan.app</tspan></tspan>
+<tspan x="440" y="375"><tspan class="key">TECHSHAN-IMS</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">Multi-tenant ERP and inventory system</tspan></tspan>
+<tspan x="440" y="395"><tspan class="key">TECHSHAN-IMS</tspan>.<tspan class="key">Link</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">https://ims.techshan.app</tspan></tspan>
+<tspan x="440" y="435">Contact <tspan class="dots">--------------------------------------------------</tspan></tspan>
+<tspan x="440" y="455"><tspan class="key">Email</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">mail@raushan7.com.np</tspan></tspan>
+<tspan x="440" y="475"><tspan class="key">Website</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">raushan7.com.np</tspan></tspan>
+<tspan x="440" y="495"><tspan class="key">Instagram</tspan>:<tspan class="dots"> .................................. </tspan><tspan class="value">raushan.2015</tspan></tspan>
+<tspan x="440" y="535">GitHub Stats <tspan class="dots">---------------------------------------------</tspan></tspan>
+<tspan x="440" y="555"><tspan class="key">Repos</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">17</tspan><tspan class="dots"> | </tspan><tspan class="key">Stars</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="440" y="575"><tspan class="key">Commits</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">904</tspan><tspan class="dots"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">6</tspan></tspan>
 </text>
 </svg>

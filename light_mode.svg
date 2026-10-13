@@ -1,44 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono',monospace" width="985px" height="560px" viewBox="0 0 985 560">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,'DejaVu Sans Mono','Liberation Mono',monospace" width="985px" height="600px" viewBox="0 0 985 600">
 <style>
 .key {fill: #953800;} .value {fill: #0a3069;} .dots {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985" height="560" fill="#f6f8fa" rx="15"/>
-<text x="15" y="36" fill="#24292f" font-size="13px" xml:space="preserve">
-<tspan x="15" y="36"></tspan>
-<tspan x="15" y="51"></tspan>
-<tspan x="15" y="66">                   HMM#MMMMMMM#HHH</tspan>
-<tspan x="15" y="81">                M##M@@@@@@@@@MH8##HMM</tspan>
-<tspan x="15" y="96">               HM8HMM@@@@@MMM@MHMHMMHHM</tspan>
-<tspan x="15" y="111">              HM#8H8M@@@@@@@HHH#88#M88@M</tspan>
-<tspan x="15" y="126">             HM#8HH8HMHs8#8HH###HMMMM8H@H</tspan>
-<tspan x="15" y="141">            #HHHH@H#S*k!|j||jkl**MM#8MM@#</tspan>
-<tspan x="15" y="156">            #HMM@@MSlj|||!!;,,,,|#@#MH@M#</tspan>
-<tspan x="15" y="171">             8MM@@s||!!;;!;;;;,;,8@lsHMM#</tspan>
-<tspan x="15" y="186">             #@M@H!|l*kj|;&#x27;&#x27;:,:``!k;`s@8</tspan>
-<tspan x="15" y="201">             *H@8jj*lkk*S8*!;,!ls**s**@</tspan>
-<tspan x="15" y="216">            l;|H|;|lSlskjk*k:!*Ssljll*8</tspan>
-<tspan x="15" y="231">             :j#!!;!jjl||j*j,!k|kslsj;j</tspan>
-<tspan x="15" y="246">             ,|#k!|;,,,;!lk!;!k|,,;;:;</tspan>
-<tspan x="15" y="261">             l:**j||!;,&#x27;kl|!&#x27;,kj,;;!,k</tspan>
-<tspan x="15" y="276">               *llj|!;:;kl*l|**!,;!|;8</tspan>
-<tspan x="15" y="291">               #|lkj|||j|j||j||j|!|!j</tspan>
-<tspan x="15" y="306">                llkj|jk*Sl|j|lS*k!!j</tspan>
-<tspan x="15" y="321">              kS**ljjjjjklkkklkklks</tspan>
-<tspan x="15" y="336">             !`8sl**lkjj|!||||k*kjj||jj|!k</tspan>
-<tspan x="15" y="351">          *l&#x27;`:,slkl*sslllll*8lj!!;;;;;||,|</tspan>
-<tspan x="15" y="366">  *kj|,:&#x27;`&#x27;`&#x27;::`:lljjkl**l*S@l,l|j;|||!!!;!!*</tspan>
-<tspan x="15" y="381">|``&#x27;```&#x27;:&#x27;::&#x27;&#x27;&#x27;&#x27;`&#x27;|lj!|jkklSs;s:l;l|,,!;:,;!;|</tspan>
-<tspan x="15" y="396">&#x27;:,,,:&#x27;`&#x27;&#x27;&#x27;,:`&#x27;`&#x27;``,kk||jjk**HS!j!l&#x27;*H8Sl,,;;;,*</tspan>
-<tspan x="15" y="411">:,:&#x27;:,:&#x27;::&#x27;&#x27;;&#x27;```&#x27;&#x27;``!llkkkk*@s!*kl!l*kk*j,,!!!&#x27;;S</tspan>
-<tspan x="15" y="426">`&#x27;,,&#x27;&#x27;,&#x27;&#x27;::&#x27;&#x27;:`````&#x27;```jsljkHH,,!jj|!!jjk*k!;;!;,&#x27;;s</tspan>
-<tspan x="15" y="441">&#x27;&#x27;&#x27;:,&#x27;::&#x27;`::&#x27;::``````:!!,;!l8,`;,||!!|;!!!jjj||;,:&#x27;j</tspan>
-<tspan x="15" y="456">:&#x27;&#x27;&#x27;&#x27;:&#x27;::&#x27;`&#x27;&#x27;&#x27;,&#x27;``&#x27;:,lMM*kk*kk##||j|;;!!!;!,;#*|ks#H</tspan>
-<tspan x="15" y="471">&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;:&#x27;:&#x27;`&#x27;&#x27;&#x27;:&#x27;:,:&#x27;`,sHSs#H@@*`:!!!;,;!!!;`s@M@@M#</tspan>
-<tspan x="15" y="486">&#x27;:&#x27;&#x27;&#x27;``::&#x27;::&#x27;&#x27;&#x27;&#x27;:&#x27;`&#x27;&#x27;&#x27;``kMSkSMM&#x27;&#x27;,:;;!;;;!;;,`k8H*|,</tspan>
-<tspan x="15" y="501">&#x27;&#x27;&#x27;&#x27;:&#x27;``,&#x27;&#x27;::&#x27;&#x27;&#x27;&#x27;::&#x27;&#x27;::&#x27;`;Hs*@S`:,&#x27;,,,;;,!!;;;&#x27;`kk!;</tspan>
-<tspan x="15" y="516">&#x27;&#x27;:&#x27;:&#x27;`&#x27;&#x27;:&#x27;&#x27;&#x27;:&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;::::`l@lM*`:,:&#x27;,,,,:;!;!|!;;slj</tspan>
-<tspan x="15" y="531">&#x27;&#x27;&#x27;&#x27;::`&#x27;&#x27;&#x27;:&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;::::&#x27;:MMk#s`&#x27;::::::::;;,!j;!;;||</tspan>
+<rect width="985" height="600" fill="#f6f8fa" rx="15"/>
+<text x="15" y="56" fill="#24292f" font-size="13px" xml:space="preserve">
+<tspan x="15" y="56"></tspan>
+<tspan x="15" y="71"></tspan>
+<tspan x="15" y="86">                   HMM#MMMMMMM#HHH</tspan>
+<tspan x="15" y="101">                M##M@@@@@@@@@MH8##HMM</tspan>
+<tspan x="15" y="116">               HM8HMM@@@@@MMM@MHMHMMHHM</tspan>
+<tspan x="15" y="131">              HM#8H8M@@@@@@@HHH#88#M88@M</tspan>
+<tspan x="15" y="146">             HM#8HH8HMHs8#8HH###HMMMM8H@H</tspan>
+<tspan x="15" y="161">            #HHHH@H#S*k!|j||jkl**MM#8MM@#</tspan>
+<tspan x="15" y="176">            #HMM@@MSlj|||!!;,,,,|#@#MH@M#</tspan>
+<tspan x="15" y="191">             8MM@@s||!!;;!;;;;,;,8@lsHMM#</tspan>
+<tspan x="15" y="206">             #@M@H!|l*kj|;&#x27;&#x27;:,:``!k;`s@8</tspan>
+<tspan x="15" y="221">             *H@8jj*lkk*S8*!;,!ls**s**@</tspan>
+<tspan x="15" y="236">            l;|H|;|lSlskjk*k:!*Ssljll*8</tspan>
+<tspan x="15" y="251">             :j#!!;!jjl||j*j,!k|kslsj;j</tspan>
+<tspan x="15" y="266">             ,|#k!|;,,,;!lk!;!k|,,;;:;</tspan>
+<tspan x="15" y="281">             l:**j||!;,&#x27;kl|!&#x27;,kj,;;!,k</tspan>
+<tspan x="15" y="296">               *llj|!;:;kl*l|**!,;!|;8</tspan>
+<tspan x="15" y="311">               #|lkj|||j|j||j||j|!|!j</tspan>
+<tspan x="15" y="326">                llkj|jk*Sl|j|lS*k!!j</tspan>
+<tspan x="15" y="341">              kS**ljjjjjklkkklkklks</tspan>
+<tspan x="15" y="356">             !`8sl**lkjj|!||||k*kjj||jj|!k</tspan>
+<tspan x="15" y="371">          *l&#x27;`:,slkl*sslllll*8lj!!;;;;;||,|</tspan>
+<tspan x="15" y="386">  *kj|,:&#x27;`&#x27;`&#x27;::`:lljjkl**l*S@l,l|j;|||!!!;!!*</tspan>
+<tspan x="15" y="401">|``&#x27;```&#x27;:&#x27;::&#x27;&#x27;&#x27;&#x27;`&#x27;|lj!|jkklSs;s:l;l|,,!;:,;!;|</tspan>
+<tspan x="15" y="416">&#x27;:,,,:&#x27;`&#x27;&#x27;&#x27;,:`&#x27;`&#x27;``,kk||jjk**HS!j!l&#x27;*H8Sl,,;;;,*</tspan>
+<tspan x="15" y="431">:,:&#x27;:,:&#x27;::&#x27;&#x27;;&#x27;```&#x27;&#x27;``!llkkkk*@s!*kl!l*kk*j,,!!!&#x27;;S</tspan>
+<tspan x="15" y="446">`&#x27;,,&#x27;&#x27;,&#x27;&#x27;::&#x27;&#x27;:`````&#x27;```jsljkHH,,!jj|!!jjk*k!;;!;,&#x27;;s</tspan>
+<tspan x="15" y="461">&#x27;&#x27;&#x27;:,&#x27;::&#x27;`::&#x27;::``````:!!,;!l8,`;,||!!|;!!!jjj||;,:&#x27;j</tspan>
+<tspan x="15" y="476">:&#x27;&#x27;&#x27;&#x27;:&#x27;::&#x27;`&#x27;&#x27;&#x27;,&#x27;``&#x27;:,lMM*kk*kk##||j|;;!!!;!,;#*|ks#H</tspan>
+<tspan x="15" y="491">&#x27;&#x27;&#x27;&#x27;`&#x27;&#x27;:&#x27;:&#x27;`&#x27;&#x27;&#x27;:&#x27;:,:&#x27;`,sHSs#H@@*`:!!!;,;!!!;`s@M@@M#</tspan>
+<tspan x="15" y="506">&#x27;:&#x27;&#x27;&#x27;``::&#x27;::&#x27;&#x27;&#x27;&#x27;:&#x27;`&#x27;&#x27;&#x27;``kMSkSMM&#x27;&#x27;,:;;!;;;!;;,`k8H*|,</tspan>
+<tspan x="15" y="521">&#x27;&#x27;&#x27;&#x27;:&#x27;``,&#x27;&#x27;::&#x27;&#x27;&#x27;&#x27;::&#x27;&#x27;::&#x27;`;Hs*@S`:,&#x27;,,,;;,!!;;;&#x27;`kk!;</tspan>
+<tspan x="15" y="536">&#x27;&#x27;:&#x27;:&#x27;`&#x27;&#x27;:&#x27;&#x27;&#x27;:&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;::::`l@lM*`:,:&#x27;,,,,:;!;!|!;;slj</tspan>
+<tspan x="15" y="551">&#x27;&#x27;&#x27;&#x27;::`&#x27;&#x27;&#x27;:&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;::::&#x27;:MMk#s`&#x27;::::::::;;,!j;!;;||</tspan>
 </text>
 <text x="440" y="35" fill="#24292f" font-size="15px" xml:space="preserve">
 <tspan x="440" y="35">raushan@chaudhary <tspan class="dots">----------------------------------------</tspan></tspan>
@@ -54,13 +54,15 @@ text, tspan {white-space: pre;}
 <tspan x="440" y="275"><tspan class="key">Homelab</tspan>.<tspan class="key">Network</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">DNS, VPN, Firewall, SSL/TLS</tspan></tspan>
 <tspan x="440" y="315">Projects <tspan class="dots">-------------------------------------------------</tspan></tspan>
 <tspan x="440" y="335"><tspan class="key">TECHSHAN</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">Server management panel with AI</tspan></tspan>
-<tspan x="440" y="355"><tspan class="key">TECHSHAN-IMS</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">Multi-tenant ERP and inventory system</tspan></tspan>
-<tspan x="440" y="395">Contact <tspan class="dots">--------------------------------------------------</tspan></tspan>
-<tspan x="440" y="415"><tspan class="key">Email</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">mail@raushan7.com.np</tspan></tspan>
-<tspan x="440" y="435"><tspan class="key">Website</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">raushan7.com.np</tspan></tspan>
-<tspan x="440" y="455"><tspan class="key">Instagram</tspan>:<tspan class="dots"> .................................. </tspan><tspan class="value">raushan.2015</tspan></tspan>
-<tspan x="440" y="495">GitHub Stats <tspan class="dots">---------------------------------------------</tspan></tspan>
-<tspan x="440" y="515"><tspan class="key">Repos</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">17</tspan><tspan class="dots"> | </tspan><tspan class="key">Stars</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="440" y="535"><tspan class="key">Commits</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">904</tspan><tspan class="dots"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">6</tspan></tspan>
+<tspan x="440" y="355"><tspan class="key">TECHSHAN</tspan>.<tspan class="key">Link</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">https://techshan.app</tspan></tspan>
+<tspan x="440" y="375"><tspan class="key">TECHSHAN-IMS</tspan>:<tspan class="dots"> ...... </tspan><tspan class="value">Multi-tenant ERP and inventory system</tspan></tspan>
+<tspan x="440" y="395"><tspan class="key">TECHSHAN-IMS</tspan>.<tspan class="key">Link</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">https://ims.techshan.app</tspan></tspan>
+<tspan x="440" y="435">Contact <tspan class="dots">--------------------------------------------------</tspan></tspan>
+<tspan x="440" y="455"><tspan class="key">Email</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">mail@raushan7.com.np</tspan></tspan>
+<tspan x="440" y="475"><tspan class="key">Website</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">raushan7.com.np</tspan></tspan>
+<tspan x="440" y="495"><tspan class="key">Instagram</tspan>:<tspan class="dots"> .................................. </tspan><tspan class="value">raushan.2015</tspan></tspan>
+<tspan x="440" y="535">GitHub Stats <tspan class="dots">---------------------------------------------</tspan></tspan>
+<tspan x="440" y="555"><tspan class="key">Repos</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">17</tspan><tspan class="dots"> | </tspan><tspan class="key">Stars</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="440" y="575"><tspan class="key">Commits</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">904</tspan><tspan class="dots"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">6</tspan></tspan>
 </text>
 </svg>
