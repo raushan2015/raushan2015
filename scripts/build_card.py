@@ -64,6 +64,7 @@ def info(s):
         ("title", "Contact"),
         ("row", "Email", "mail@raushan7.com.np"),
         ("row", "Website", "raushan7.com.np"),
+        ("row", "LinkedIn", "linkedin.com/in/raushan2015"),
         ("row", "Instagram", "raushan.2015"),
         None,
         ("title", "GitHub Stats"),
