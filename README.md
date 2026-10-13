@@ -64,6 +64,7 @@ When something breaks I don't guess. I check layer by layer (process â†’ port â†
   <a href="https://techshan.app"><img src="https://img.shields.io/badge/TECHSHAN-techshan.app-16a34a?style=flat-square&logo=linux&logoColor=white" alt="TECHSHAN" /></a>
   <a href="https://www.raushan7.com.np"><img src="https://img.shields.io/badge/Portfolio-raushan7.com.np-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:mail@raushan7.com.np"><img src="https://img.shields.io/badge/Email-mail%40raushan7.com.np-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/raushan2015"><img src="https://img.shields.io/badge/LinkedIn-raushan2015-0A66C2?style=flat-square" alt="LinkedIn" /></a>
   <a href="https://instagram.com/raushan.2015"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://facebook.com/raushanchy7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
